@@ -6,15 +6,21 @@
 
 * navbars
 * cards
-* xyz
-* * hndjsfhnd
+* list
 
-#### sdjhfsjd
+#### starter syntax of bootstrap
 
 ```
 <html>
     <body>
-        djfkhdjk
+        <div class="container text-center">
+            <div class="row">
+                <div class="card">
+                    <h1>content header</h1>
+                    <p>write your contents</p>
+                </div>
+            </div>
+        </div>
     </body>
 </html>
 ```
